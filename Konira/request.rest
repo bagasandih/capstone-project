@@ -1,0 +1,32 @@
+### 
+POST http://localhost:5000/register
+Content-Type: application/json
+
+{
+    "name": "nata2",
+    "email": "nat2@gmail.com",
+    "password": "123"
+}
+
+###
+
+POST http://localhost:5000/createuser
+Content-Type: application/json
+
+{
+    "name": "nata",
+    "email": "nat@gmail.com",
+    "password": "123"
+}
+
+###
+POST http://localhost:5000/login
+Content-Type: application/json
+
+{
+    "email": "nat2@gmail.com",
+    "password": "123"
+}
+
+###
+GET  http://localhost:5000/user
