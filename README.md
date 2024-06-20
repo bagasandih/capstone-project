@@ -1,5 +1,7 @@
+
+
 <div align="center">
-    <i>Empowering Farmers through Technology.</i>
+    <i>KONIRA - Kopi Tani Sejahtera</i>
 </div>
 
 <div align="center">
