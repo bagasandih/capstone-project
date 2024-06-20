@@ -1,7 +1,11 @@
 # KONIRA Project
 ## Bangkit Capstone Project 2024
-![logoKONIRA](https://github.com/bagasandih/capstone-project/assets/171497876/886c27ae-0b3c-4979-8642-12d4f18fb820)
 
+<div align="center">
+    <p align="center">
+      <img src="https://drive.google.com/uc?export=view&id=1AFLhiO3bdxSexP1Hs1Oa7R2qZRWuxC2v" alt="Feature1" width="500">
+    </p>
+</div>    
 
 <div align="center">
     <i>KONIRA - Kopi Tani Sejahtera</i>
@@ -99,9 +103,16 @@ KONIRA (Kopi Tani Sejahtera) is an innovative application designed to assist cof
 ![dokumentasi MD Bangkit1](https://github.com/bagasandih/capstone-project/assets/171497876/342e8c24-d5f8-473c-88dd-4e9fdbfdea5c)
 ![dokumentasi MD Bangkit](https://github.com/bagasandih/capstone-project/assets/171497876/983405cd-884b-4da2-a762-256092ef4f37)
 
-## UI/UX
-#### Prototype Design: 
+## Repository
+
+[![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagasandih/Capstone-Project/tree/machine_learning)
+
+[![Mobile Development](https://img.shields.io/badge/Mobile%20Development-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagasandih/Capstone-Project/tree/mobile_development)
+
+[![Cloud Computing API](https://img.shields.io/badge/Cloud%20Computing%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagasandih/Capstone-Project/tree/cloud_computing)
+
+## UI/UX 
 [![Figma Prototype](https://img.shields.io/badge/Figma%20Prototype-gray?style=for-the-badge&logo=figma&logoColor=F24E1E&link=https://www.figma.com/design/nciLNSb8mOo72S1taNitYN/KONIRA-APP?node-id=0%3A1&t=3efCOw01P3nxzJcQ-1)](https://www.figma.com/design/nciLNSb8mOo72S1taNitYN/KONIRA-APP?node-id=0%3A1&t=3efCOw01P3nxzJcQ-1)
-#### Demo Video: 
+
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xSdlGiAcwYc?si=YRcrOzuFXId2ovQ7)
 #### Link APK: [Google Drive](https://drive.google.com/file/d/1LnMB2S8uSYJyQ95ab4XCiZLlQ8eGWBlD/view?usp=sharing)
