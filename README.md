@@ -1,11 +1,7 @@
-# Project KONIRA
+# KONIRA Project
+## Bangkit Capstone Project 2024
+![logoKONIRA](https://github.com/bagasandih/capstone-project/assets/171497876/886c27ae-0b3c-4979-8642-12d4f18fb820)
 
-<p align="center">
-  <img src="# Project KONIRA
-
-<p align="center">
-  <img src="https://github.com/username/repository/blob/main/logoKONIRA.png?raw=true" alt="KONIRA Logo" width="300">
-</p>
 
 <div align="center">
     <i>KONIRA - Kopi Tani Sejahtera</i>
@@ -95,10 +91,15 @@ ID team : C241-PS116
     </table>
 </div>
 
-# Project Description
+## Project Description
 
 KONIRA (Kopi Tani Sejahtera) is an innovative application designed to assist coffee farmers in managing their farms more efficiently and effectively. Featuring advanced machine learning technology for detecting diseases on coffee leaves, the app allows farmers to swiftly and accurately identify issues like leaf rust and coffee berry disease, addressing crucial needs in Indonesia's vast coffee industry.
 
-# Documentation
+## Documentation
 ![dokumentasi MD Bangkit1](https://github.com/bagasandih/capstone-project/assets/171497876/342e8c24-d5f8-473c-88dd-4e9fdbfdea5c)
 ![dokumentasi MD Bangkit](https://github.com/bagasandih/capstone-project/assets/171497876/983405cd-884b-4da2-a762-256092ef4f37)
+
+## UI/UX
+#### Prototype Design: [Figma](https://www.figma.com/design/nciLNSb8mOo72S1taNitYN/Capstone-Project-KONIRA?m=dev&node-id=0-1&t=R2w1ggC5Q7QTLGco-1)
+#### Demo Video: [Youtube](https://youtu.be/xSdlGiAcwYc)
+#### Link APK: [Google Drive](https://drive.google.com/file/d/1LnMB2S8uSYJyQ95ab4XCiZLlQ8eGWBlD/view?usp=sharing)
