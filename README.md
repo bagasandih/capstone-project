@@ -100,6 +100,8 @@ KONIRA (Kopi Tani Sejahtera) is an innovative application designed to assist cof
 ![dokumentasi MD Bangkit](https://github.com/bagasandih/capstone-project/assets/171497876/983405cd-884b-4da2-a762-256092ef4f37)
 
 ## UI/UX
-#### Prototype Design: [Figma](https://www.figma.com/design/nciLNSb8mOo72S1taNitYN/Capstone-Project-KONIRA?m=dev&node-id=0-1&t=R2w1ggC5Q7QTLGco-1)
-#### Demo Video: [Youtube](https://youtu.be/xSdlGiAcwYc)
+#### Prototype Design: 
+[![Figma Prototype](https://img.shields.io/badge/Figma%20Prototype-gray?style=for-the-badge&logo=figma&logoColor=F24E1E&link=https://www.figma.com/design/nciLNSb8mOo72S1taNitYN/KONIRA-APP?node-id=0%3A1&t=3efCOw01P3nxzJcQ-1)](https://www.figma.com/design/nciLNSb8mOo72S1taNitYN/KONIRA-APP?node-id=0%3A1&t=3efCOw01P3nxzJcQ-1)
+#### Demo Video: 
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/xSdlGiAcwYc?si=YRcrOzuFXId2ovQ7)
 #### Link APK: [Google Drive](https://drive.google.com/file/d/1LnMB2S8uSYJyQ95ab4XCiZLlQ8eGWBlD/view?usp=sharing)
