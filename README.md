@@ -7,8 +7,7 @@ Our result after call ML API using Postman:
 This is located in a different repository, click the link for the repository for the ml model detection api: [link repository deteksi API ML detection](https://github.com/nata-beep16/konira-apps.git)
 
 ## Tools & Library
-Google Cloud Platform
-
+- Google Cloud Platform
 - Docker
 - Python
 - Flash API
