@@ -107,7 +107,7 @@ KONIRA (Kopi Tani Sejahtera) is an innovative application designed to assist cof
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagasandih/Capstone-Project/tree/machine_learning)
 
-[![Mobile Development](https://img.shields.io/badge/Mobile%20Development-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagasandih/Capstone-Project/tree/mobile_development)
+[![Mobile Development](https://img.shields.io/badge/Mobile%20Development-121013?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/bagasandih/Capstone-Project/tree/mobile_development](https://github.com/ainkeehere11/KONIRAapp))
 
 [![Cloud Computing API](https://img.shields.io/badge/Cloud%20Computing%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bagasandih/Capstone-Project/tree/cloud_computing)
 
