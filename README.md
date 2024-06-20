@@ -17,3 +17,4 @@ Google Cloud Platform
 - Postman
 
 ## Architectur Design
+![ar drawio](https://github.com/bagasandih/capstone-project/assets/118192080/b7c29527-3d71-4956-9056-d4d44f8ee2d8)
