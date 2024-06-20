@@ -1,4 +1,11 @@
+# Project KONIRA
 
+<p align="center">
+  <img src="# Project KONIRA
+
+<p align="center">
+  <img src="https://github.com/username/repository/blob/main/logoKONIRA.png?raw=true" alt="KONIRA Logo" width="300">
+</p>
 
 <div align="center">
     <i>KONIRA - Kopi Tani Sejahtera</i>
@@ -87,3 +94,9 @@ ID team : C241-PS116
         </tr>
     </table>
 </div>
+
+# Project Description
+
+KONIRA (Kopi Tani Sejahtera) is an innovative application designed to assist coffee farmers in managing their farms more efficiently and effectively. Featuring advanced machine learning technology for detecting diseases on coffee leaves, the app allows farmers to swiftly and accurately identify issues like leaf rust and coffee berry disease, addressing crucial needs in Indonesia's vast coffee industry.
+
+# Documentation
